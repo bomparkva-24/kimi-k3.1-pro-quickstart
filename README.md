@@ -1,5 +1,3 @@
-Copy and paste this into your GitHub `README.md`:
-
 ```markdown
 # Kimi K3.1 Pro Quickstart
 
